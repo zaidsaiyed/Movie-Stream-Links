@@ -1,0 +1,264 @@
+{
+    "page": 1,
+    "page_size": 30,
+    "total_pages": 1,
+    "total_results": 2,
+    "items": [
+        {
+            "jw_entity_id": "tm423373",
+            "id": 423373,
+            "title": "Andhadhun",
+            "full_path": "/ca/movie/andhadhun",
+            "full_paths": {
+                "MOVIE_DETAIL_OVERVIEW": "/ca/movie/andhadhun"
+            },
+            "poster": "/poster/300686552/{profile}",
+            "poster_blur_hash": "TqN+Lzni-VQSa}xG~qW=R*Ioj[S4",
+            "original_release_year": 2018,
+            "object_type": "movie",
+            "offers": [
+                {
+                    "jw_entity_id": "tm423373",
+                    "monetization_type": "buy",
+                    "provider_id": 2,
+                    "package_short_name": "itu",
+                    "retail_price": 20.99,
+                    "currency": "CAD",
+                    "urls": {
+                        "standard_web": "https://tv.apple.com/ca/movie/andhadhun/umc.cmc.4j7zw48zujb15dd0ljho1kan8?playableId=tvs.sbd.9001%3A1448101698",
+                        "deeplink_rokuos": "launch/551012?contentID=https%3A%2F%2Ftv.apple.com%2Fca%2Fmovie%2Fandhadhun%2Fumc.cmc.4j7zw48zujb15dd0ljho1kan8%3FplayableId%3Dtvs.sbd.9001%253A1448101698&MediaType=movie"
+                    },
+                    "presentation_type": "hd",
+                    "country": "CA"
+                },
+                {
+                    "jw_entity_id": "tm423373",
+                    "monetization_type": "buy",
+                    "provider_id": 2,
+                    "package_short_name": "itu",
+                    "retail_price": 18.99,
+                    "currency": "CAD",
+                    "urls": {
+                        "standard_web": "https://tv.apple.com/ca/movie/andhadhun/umc.cmc.4j7zw48zujb15dd0ljho1kan8?playableId=tvs.sbd.9001%3A1448101698",
+                        "deeplink_rokuos": "launch/551012?contentID=https%3A%2F%2Ftv.apple.com%2Fca%2Fmovie%2Fandhadhun%2Fumc.cmc.4j7zw48zujb15dd0ljho1kan8%3FplayableId%3Dtvs.sbd.9001%253A1448101698&MediaType=movie"
+                    },
+                    "presentation_type": "sd",
+                    "country": "CA"
+                },
+                {
+                    "jw_entity_id": "tm423373",
+                    "monetization_type": "rent",
+                    "provider_id": 2,
+                    "package_short_name": "itu",
+                    "retail_price": 6.99,
+                    "currency": "CAD",
+                    "urls": {
+                        "standard_web": "https://tv.apple.com/ca/movie/andhadhun/umc.cmc.4j7zw48zujb15dd0ljho1kan8?playableId=tvs.sbd.9001%3A1448101698",
+                        "deeplink_rokuos": "launch/551012?contentID=https%3A%2F%2Ftv.apple.com%2Fca%2Fmovie%2Fandhadhun%2Fumc.cmc.4j7zw48zujb15dd0ljho1kan8%3FplayableId%3Dtvs.sbd.9001%253A1448101698&MediaType=movie"
+                    },
+                    "presentation_type": "hd",
+                    "country": "CA"
+                },
+                {
+                    "jw_entity_id": "tm423373",
+                    "monetization_type": "rent",
+                    "provider_id": 2,
+                    "package_short_name": "itu",
+                    "retail_price": 6.99,
+                    "currency": "CAD",
+                    "urls": {
+                        "standard_web": "https://tv.apple.com/ca/movie/andhadhun/umc.cmc.4j7zw48zujb15dd0ljho1kan8?playableId=tvs.sbd.9001%3A1448101698",
+                        "deeplink_rokuos": "launch/551012?contentID=https%3A%2F%2Ftv.apple.com%2Fca%2Fmovie%2Fandhadhun%2Fumc.cmc.4j7zw48zujb15dd0ljho1kan8%3FplayableId%3Dtvs.sbd.9001%253A1448101698&MediaType=movie"
+                    },
+                    "presentation_type": "sd",
+                    "country": "CA"
+                },
+                {
+                    "jw_entity_id": "tm423373",
+                    "monetization_type": "buy",
+                    "provider_id": 3,
+                    "package_short_name": "ply",
+                    "retail_price": 14.99,
+                    "currency": "CAD",
+                    "urls": {
+                        "standard_web": "https://play.google.com/store/movies/details/Andhadhun?gl=CA&hl=en&id=N7Yr0oBXBp0"
+                    },
+                    "presentation_type": "hd",
+                    "country": "CA"
+                },
+                {
+                    "jw_entity_id": "tm423373",
+                    "monetization_type": "buy",
+                    "provider_id": 3,
+                    "package_short_name": "ply",
+                    "retail_price": 9.99,
+                    "currency": "CAD",
+                    "urls": {
+                        "standard_web": "https://play.google.com/store/movies/details/Andhadhun?gl=CA&hl=en&id=N7Yr0oBXBp0"
+                    },
+                    "presentation_type": "sd",
+                    "country": "CA"
+                },
+                {
+                    "jw_entity_id": "tm423373",
+                    "monetization_type": "rent",
+                    "provider_id": 3,
+                    "package_short_name": "ply",
+                    "retail_price": 4.99,
+                    "currency": "CAD",
+                    "urls": {
+                        "standard_web": "https://play.google.com/store/movies/details/Andhadhun?gl=CA&hl=en&id=N7Yr0oBXBp0"
+                    },
+                    "presentation_type": "hd",
+                    "country": "CA"
+                },
+                {
+                    "jw_entity_id": "tm423373",
+                    "monetization_type": "rent",
+                    "provider_id": 3,
+                    "package_short_name": "ply",
+                    "retail_price": 3.99,
+                    "currency": "CAD",
+                    "urls": {
+                        "standard_web": "https://play.google.com/store/movies/details/Andhadhun?gl=CA&hl=en&id=N7Yr0oBXBp0"
+                    },
+                    "presentation_type": "sd",
+                    "country": "CA"
+                },
+                {
+                    "jw_entity_id": "tm423373",
+                    "monetization_type": "buy",
+                    "provider_id": 192,
+                    "package_short_name": "yot",
+                    "retail_price": 14.99,
+                    "currency": "CAD",
+                    "urls": {
+                        "standard_web": "https://www.youtube.com/results?search_query=Andhadhun%2Bmovie"
+                    },
+                    "presentation_type": "hd",
+                    "country": "CA"
+                },
+                {
+                    "jw_entity_id": "tm423373",
+                    "monetization_type": "buy",
+                    "provider_id": 192,
+                    "package_short_name": "yot",
+                    "retail_price": 9.99,
+                    "currency": "CAD",
+                    "urls": {
+                        "standard_web": "https://www.youtube.com/results?search_query=Andhadhun%2Bmovie"
+                    },
+                    "presentation_type": "sd",
+                    "country": "CA"
+                },
+                {
+                    "jw_entity_id": "tm423373",
+                    "monetization_type": "rent",
+                    "provider_id": 192,
+                    "package_short_name": "yot",
+                    "retail_price": 4.99,
+                    "currency": "CAD",
+                    "urls": {
+                        "standard_web": "https://www.youtube.com/results?search_query=Andhadhun%2Bmovie"
+                    },
+                    "presentation_type": "hd",
+                    "country": "CA"
+                },
+                {
+                    "jw_entity_id": "tm423373",
+                    "monetization_type": "rent",
+                    "provider_id": 192,
+                    "package_short_name": "yot",
+                    "retail_price": 3.99,
+                    "currency": "CAD",
+                    "urls": {
+                        "standard_web": "https://www.youtube.com/results?search_query=Andhadhun%2Bmovie"
+                    },
+                    "presentation_type": "sd",
+                    "country": "CA"
+                }
+            ],
+            "scoring": [
+                {
+                    "provider_type": "jw:popular_30_day",
+                    "value": 2.03
+                },
+                {
+                    "provider_type": "tmdb:score",
+                    "value": 7.6
+                },
+                {
+                    "provider_type": "tmdb:popularity",
+                    "value": 11.469
+                },
+                {
+                    "provider_type": "jw:trending_7_day",
+                    "value": 0.24
+                },
+                {
+                    "provider_type": "jw:popular_7_day",
+                    "value": 0.37
+                },
+                {
+                    "provider_type": "imdb:score",
+                    "value": 8.2
+                },
+                {
+                    "provider_type": "jw:popular_1_day",
+                    "value": 0.69
+                },
+                {
+                    "provider_type": "imdb:votes",
+                    "value": 96169
+                },
+                {
+                    "provider_type": "imdb:multiplied",
+                    "value": 788585.7999999999
+                },
+                {
+                    "provider_type": "tmdb:id",
+                    "value": 534780
+                },
+                {
+                    "provider_type": "tmdb:votes",
+                    "value": 383
+                },
+                {
+                    "provider_type": "imdb:popularity",
+                    "value": 3067
+                },
+                {
+                    "provider_type": "jw:popular_180_day",
+                    "value": 4.09
+                }
+            ]
+        },
+        {
+            "jw_entity_id": "tm1023673",
+            "id": 1023673,
+            "title": "Maestro",
+            "full_path": "/ca/movie/maestro-2021",
+            "full_paths": {
+                "MOVIE_DETAIL_OVERVIEW": "/ca/movie/maestro-2021"
+            },
+            "poster": "/poster/250632233/{profile}",
+            "poster_blur_hash": "TFE1jbs8IU}ZnjE2M}t6oyMyR-NH",
+            "original_release_year": 2021,
+            "object_type": "movie",
+            "scoring": [
+                {
+                    "provider_type": "imdb:score",
+                    "value": 6.7
+                },
+                {
+                    "provider_type": "imdb:votes",
+                    "value": 1284
+                },
+                {
+                    "provider_type": "imdb:multiplied",
+                    "value": 8602.800000000001
+                }
+            ]
+        }
+    ]
+}

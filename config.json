@@ -180,20 +180,16 @@
             ],
             "scoring": [
                 {
-                    "provider_type": "jw:popular_30_day",
-                    "value": 2.03
-                },
-                {
                     "provider_type": "tmdb:score",
                     "value": 7.6
                 },
                 {
-                    "provider_type": "tmdb:popularity",
-                    "value": 11.469
+                    "provider_type": "jw:popular_1_day",
+                    "value": 0.69
                 },
                 {
-                    "provider_type": "jw:trending_7_day",
-                    "value": 0.24
+                    "provider_type": "tmdb:id",
+                    "value": 534780
                 },
                 {
                     "provider_type": "jw:popular_7_day",
@@ -204,32 +200,36 @@
                     "value": 8.2
                 },
                 {
-                    "provider_type": "jw:popular_1_day",
-                    "value": 0.69
-                },
-                {
-                    "provider_type": "imdb:votes",
-                    "value": 96169
+                    "provider_type": "tmdb:popularity",
+                    "value": 11.469
                 },
                 {
                     "provider_type": "imdb:multiplied",
                     "value": 788585.7999999999
                 },
                 {
-                    "provider_type": "tmdb:id",
-                    "value": 534780
-                },
-                {
-                    "provider_type": "tmdb:votes",
-                    "value": 383
-                },
-                {
                     "provider_type": "imdb:popularity",
                     "value": 3067
                 },
                 {
+                    "provider_type": "jw:popular_30_day",
+                    "value": 2.03
+                },
+                {
+                    "provider_type": "jw:trending_7_day",
+                    "value": 0.24
+                },
+                {
                     "provider_type": "jw:popular_180_day",
                     "value": 4.09
+                },
+                {
+                    "provider_type": "imdb:votes",
+                    "value": 96169
+                },
+                {
+                    "provider_type": "tmdb:votes",
+                    "value": 383
                 }
             ]
         },

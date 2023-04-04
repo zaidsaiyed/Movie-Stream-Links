@@ -10,13 +10,15 @@ pro = just_watch.get_providers()
 for i in results.get('items'):
     if i.get('offers') is None:
         continue
-    print(i.get('title'))
+    print(f"{i.get('title')}:")
     for offer in i.get('offers'):
+        provider_id = offer.get('provider_id')
+        monetization_type = offer.get('monetization_type')
         urls = offer.get('urls')
         if urls is None:
             continue
         for url_type, url in urls.items():
-            print(f"{offer.get('provider_id')} - {offer.get('monetization_type')}: {url}")
+            print(f"{provider_id} - {monetization_type}: {url}")
     print("----" * 26)
 
 with open('config.json', "w") as f:

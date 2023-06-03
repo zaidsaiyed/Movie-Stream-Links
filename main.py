@@ -1,8 +1,8 @@
 from justwatch import JustWatch
 import json
 
-country = input("Which country you are watching from?: ")
-just_watch = JustWatch(country='CA')
+country_name = 'CA'
+just_watch = JustWatch(country=country_name)
 user_input = input("Enter the movie name: ")
 
 results = just_watch.search_for_item(query=user_input)

@@ -1,6 +1,7 @@
 from justwatch import JustWatch
 import json
 
+country = input("Which country you are watching from?: ")
 just_watch = JustWatch(country='CA')
 user_input = input("Enter the movie name: ")
 
@@ -15,11 +16,13 @@ for i in results.get('items'):
     if i.get('offers') is None:
         continue
     print(f"{i.get('title')}:")
+    
     for offer in i.get('offers'):
         provider_id = offer.get('provider_id')
         provider_name = provider_dict.get(provider_id, "Unknown Provider")
         monetization_type = offer.get('monetization_type')
         urls = offer.get('urls')
+        
         if urls is None:
             continue
         for url_type, url in urls.items():

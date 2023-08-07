@@ -18,7 +18,7 @@ To use this script, follow these steps:
 
 ## Dependencies
 
-This script requires the following Python libraries:
+This script requires the following Python libraries to be imported:
 
 -   justwatch
 -   json
